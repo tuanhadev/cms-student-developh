@@ -1,0 +1,43 @@
+{
+  "files": {
+    "static/css/0.c04d175b.chunk.css": "/cms-student-developh/static/css/0.c04d175b.chunk.css",
+    "static/js/0.bb1c231b.chunk.js": "/cms-student-developh/static/js/0.bb1c231b.chunk.js",
+    "static/js/0.bb1c231b.chunk.js.map": "/cms-student-developh/static/js/0.bb1c231b.chunk.js.map",
+    "main.css": "/cms-student-developh/static/css/main.848e6759.chunk.css",
+    "main.js": "/cms-student-developh/static/js/main.e9f0fed5.chunk.js",
+    "main.js.map": "/cms-student-developh/static/js/main.e9f0fed5.chunk.js.map",
+    "runtime-main.js": "/cms-student-developh/static/js/runtime-main.afeb7cf9.js",
+    "runtime-main.js.map": "/cms-student-developh/static/js/runtime-main.afeb7cf9.js.map",
+    "static/js/3.b4007308.chunk.js": "/cms-student-developh/static/js/3.b4007308.chunk.js",
+    "static/js/3.b4007308.chunk.js.map": "/cms-student-developh/static/js/3.b4007308.chunk.js.map",
+    "static/js/4.3e32b83c.chunk.js": "/cms-student-developh/static/js/4.3e32b83c.chunk.js",
+    "static/js/4.3e32b83c.chunk.js.map": "/cms-student-developh/static/js/4.3e32b83c.chunk.js.map",
+    "static/js/5.157ee36a.chunk.js": "/cms-student-developh/static/js/5.157ee36a.chunk.js",
+    "static/js/5.157ee36a.chunk.js.map": "/cms-student-developh/static/js/5.157ee36a.chunk.js.map",
+    "static/js/6.c3df4135.chunk.js": "/cms-student-developh/static/js/6.c3df4135.chunk.js",
+    "static/js/6.c3df4135.chunk.js.map": "/cms-student-developh/static/js/6.c3df4135.chunk.js.map",
+    "static/js/7.852e0dfd.chunk.js": "/cms-student-developh/static/js/7.852e0dfd.chunk.js",
+    "static/js/7.852e0dfd.chunk.js.map": "/cms-student-developh/static/js/7.852e0dfd.chunk.js.map",
+    "static/js/8.199af05c.chunk.js": "/cms-student-developh/static/js/8.199af05c.chunk.js",
+    "static/js/8.199af05c.chunk.js.map": "/cms-student-developh/static/js/8.199af05c.chunk.js.map",
+    "static/js/9.02584308.chunk.js": "/cms-student-developh/static/js/9.02584308.chunk.js",
+    "static/js/9.02584308.chunk.js.map": "/cms-student-developh/static/js/9.02584308.chunk.js.map",
+    "static/js/10.f5247f2e.chunk.js": "/cms-student-developh/static/js/10.f5247f2e.chunk.js",
+    "static/js/10.f5247f2e.chunk.js.map": "/cms-student-developh/static/js/10.f5247f2e.chunk.js.map",
+    "static/js/11.cbf826a2.chunk.js": "/cms-student-developh/static/js/11.cbf826a2.chunk.js",
+    "static/js/11.cbf826a2.chunk.js.map": "/cms-student-developh/static/js/11.cbf826a2.chunk.js.map",
+    "index.html": "/cms-student-developh/index.html",
+    "precache-manifest.1f9c35300bdfbe5ef00be83b8292f3b1.js": "/cms-student-developh/precache-manifest.1f9c35300bdfbe5ef00be83b8292f3b1.js",
+    "service-worker.js": "/cms-student-developh/service-worker.js",
+    "static/css/0.c04d175b.chunk.css.map": "/cms-student-developh/static/css/0.c04d175b.chunk.css.map",
+    "static/css/main.848e6759.chunk.css.map": "/cms-student-developh/static/css/main.848e6759.chunk.css.map",
+    "static/js/0.bb1c231b.chunk.js.LICENSE.txt": "/cms-student-developh/static/js/0.bb1c231b.chunk.js.LICENSE.txt",
+    "static/js/3.b4007308.chunk.js.LICENSE.txt": "/cms-student-developh/static/js/3.b4007308.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afeb7cf9.js",
+    "static/js/3.b4007308.chunk.js",
+    "static/css/main.848e6759.chunk.css",
+    "static/js/main.e9f0fed5.chunk.js"
+  ]
+}
